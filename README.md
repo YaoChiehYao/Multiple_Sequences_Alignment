@@ -1,6 +1,6 @@
-##  BINF 6309 Assignment 6 Multiple Sequence Alignment 
-Author: Yao Chieh Yao
+BINF 6309 Assignment 6 
 
+# Project Name: Multiple Sequence Alignment 
 
 ## Description
 In assignment 6, we first used python3 and BioPython to translate 
